@@ -56,6 +56,7 @@ body {
     text-decoration: none;
     display: block;
     margin-bottom: 1rem;
+    font-size: 1.5rem;
 
 }
 
@@ -182,6 +183,10 @@ body {
     .container {
         display: block;
         background-image: none;
+    }
+
+    .container__botao {
+        font-size: 1rem;
     }
 
     .container__principal__imagem {
